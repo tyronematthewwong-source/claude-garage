@@ -1,0 +1,24 @@
+{
+  "name": "claude-garage",
+  "owner": {
+    "name": "Paper Crab"
+  },
+  "description": "Three free Claude Code mods from Paper Crab: Pit Crew, Fuel Saver and Dashboard",
+  "plugins": [
+    {
+      "name": "fuel-saver",
+      "source": "./fuel-saver",
+      "description": "Sends easy prompts to Haiku so you stop spending big-model usage on small tasks"
+    },
+    {
+      "name": "pit-crew",
+      "source": "./pit-crew",
+      "description": "/crew <task>: a scout researches, a writer drafts, a crew chief reviews"
+    },
+    {
+      "name": "dashboard",
+      "source": "./dashboard",
+      "description": "/dash: a side panel with your to-dos and live session gauges"
+    }
+  ]
+}

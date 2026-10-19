@@ -1,0 +1,8 @@
+{
+  "name": "pit-crew",
+  "version": "0.1.0",
+  "description": "A scout, a writer and a crew chief: /crew <task> runs all three in order",
+  "author": {
+    "name": "Paper Crab"
+  }
+}

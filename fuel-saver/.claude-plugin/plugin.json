@@ -1,0 +1,8 @@
+{
+  "name": "fuel-saver",
+  "version": "0.1.0",
+  "description": "Sends simple prompts to Haiku so you stop spending big-model credits on small tasks",
+  "author": {
+    "name": "Paper Crab"
+  }
+}

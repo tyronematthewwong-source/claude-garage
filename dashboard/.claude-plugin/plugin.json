@@ -1,0 +1,9 @@
+{
+  "name": "dashboard",
+  "version": "0.1.0",
+  "description": "A dashboard pane with your to-dos and this session's gauges",
+  "types": "./types/index.d.ts",
+  "author": {
+    "name": "Paper Crab"
+  }
+}
